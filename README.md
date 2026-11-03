@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" alt="Header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=ASHRAF+MANJUR+SHAIKH" alt="Ashraf Manjur Shaikh"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=RIYAJ+YUNUS+SHAIKH" alt="Riyaj Yunus Shaikh"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=Java+Full-Stack+Developer+%7C+Software+Engineer;Building+Scalable+Web+Applications;Spring+Boot+%7C+React.js+%7C+MySQL;Passionate+about+Backend+Architecture" alt="Animated introduction"/>
 
