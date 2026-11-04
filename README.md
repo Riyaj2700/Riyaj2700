@@ -14,10 +14,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/riyajshaikh27"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:riyaj.s2700@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Riyaj2700"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Riyaj2700&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hello, I'm Ashraf 👋
+# Hello, I'm Riyaj 👋 #
 
 Java Full-Stack Developer based in Maharashtra, India. I specialize in building robust backend architectures and seamless frontend experiences.
 
@@ -40,14 +40,13 @@ My background includes hands-on experience through Java Development On-the-Job T
 - 💻 Backend development with **Java & Spring Boot**
 - 🌐 Interactive frontends with **React.js**
 - 🗄️ Database architecture with **MySQL & Oracle SQL**
-- 🧪 Code validation with structured **Unit & Manual Testing**
 
 </td>
 <td width="42%" valign="top">
 
 ```bash
 $ whoami
-ashraf-shaikh
+Riyaj Shaikh
 
 $ cat profile.yml
 role:       Java Full-Stack Developer
